@@ -1,0 +1,49 @@
+    <header>
+    <img id="foto_perfil" src="https://randomuser.me/api/portraits/women/90.jpg" 
+   alt="randomuser.me" >
+
+   <h1>Tracy Brown</h1>
+    </header>  
+        <details id="dat_pers">
+             <summary>
+                Datos personales
+            </summary>
+                <ul>
+                    <li>Edad: 24 años</li>
+                    <li>EStado Civil: Soltera</li>
+                    <li>E-mail: tracy.brown@example.com</li>
+                    <li>Numero de contacto: 11 56479523</li>
+                </ul>
+            
+        </details>
+        
+        <details id="form_acad">
+            <summary>
+               Formacion academica
+            
+           </summary>
+               <ul>
+                    <li>Lorem ipsum dolor sit amet, 
+                        consectetur adipiscing elit.</li>
+                    <li>Vivamus laoreet nibh eu quam feugiat, 
+                        non mollis ipsum aliquet.</li>
+                    <li>Nullam sodales libero 
+                        quis vehicula mattis.</li>
+               </ul>
+           
+       </details>
+       <details id="exp_lab">
+        <summary> 
+           Experiencia Laboral
+        
+       </summary>
+           <ul>
+                <li>Lorem ipsum dolor sit amet, 
+                    consectetur adipiscing elit.</li>
+                <li>Vivamus laoreet nibh eu quam feugiat, 
+                    non mollis ipsum aliquet.</li>
+                <li>Nullam sodales libero 
+                    quis vehicula mattis.</li>
+           </ul>
+       
+   </details>
